@@ -21,8 +21,3 @@
   repo: netbench
   img: /static/assets/img/landing/python.png
   desc: Measures whether an internet connection can carry industrial-automation traffic to the cloud. Replays traffic patterns against a cloud server and rates each network with confidence intervals, using FastAPI, PostgreSQL and Streamlit.
-
-- name: RAGForge
-  i18n: ragforge
-  img: /static/assets/img/landing/python.png
-  desc: A production-grade Retrieval-Augmented Generation system built from scratch in plain Python, with local embeddings and reranking, a PDF-heavy corpus and an evaluation harness.

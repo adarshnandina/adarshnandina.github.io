@@ -1,7 +1,7 @@
 {
-  "name": "Jalpc",
+  "name": "adarshnandina.github.io",
   "version": "1.1.1",
-  "description": "npm config file for Jalpc",
+  "description": "Build scripts for adarshnandina.github.io (based on the Jalpc Jekyll theme)",
   "main": "",
   "scripts": {
     "build": "node build/build.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jarrekk/Jalpc.git"
+    "url": "git+https://github.com/adarshnandina/adarshnandina.github.io.git"
   },
-  "author": "Kun Jia",
+  "author": "Adarsh Kumar Reddy Nandina",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jarrekk/Jalpc/issues"
+    "url": "https://github.com/adarshnandina/adarshnandina.github.io/issues"
   },
-  "homepage": "https://github.com/jarrekk/Jalpc#readme",
+  "homepage": "https://adarshnandina.github.io",
   "dependencies": {
     "animate.css": "^3.5.2",
     "bootstrap": "^3.3.6",
